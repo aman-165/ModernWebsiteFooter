@@ -2,7 +2,8 @@
 
 A clean and responsive modern footer component designed using HTML and CSS. It includes sections like About Us, Newsletter Subscription, Help, Contact Info, and Social Media Links — ideal for integration into any modern website or template.
 
-<img width="1920" height="877" alt="screencapture-file-D-Felix-It-system-AP103-index-html-2025-07-07-16_42_30" src="https://github.com/user-attachments/assets/ceaea930-bb6c-4574-9b13-3e7ecbbb7017" />
+<img width="1920" height="381" alt="Screenshot 2025-07-29 231403" src="https://github.com/user-attachments/assets/1e8cfb29-c4b9-408e-8603-373dfa6a62db" />
+
 
 ---
 
