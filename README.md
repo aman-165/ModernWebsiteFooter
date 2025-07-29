@@ -26,7 +26,6 @@ A clean and responsive modern footer component designed using HTML and CSS. It i
 ---
 
 ## 🚀 How to Use
-## 🚀 How to Use
 
 1. **Clone the repository**
    ```bash
